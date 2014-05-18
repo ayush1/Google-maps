@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoogleMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="str_btn_find">Find Places</string>
+	
+	<string-array name="place_type">
+        <item>restaurant</item>
+		<item>hospital</item>
+		<item>airport</item>
+		<item>bus_station</item>
+		<item>atm</item>
+		<item>bank</item>
+		<item>movie_theater</item>
+	</string-array>
+	
+    <string-array name="place_type_name">
+        <item>Restaurant</item>
+		<item>Hospital</item>
+		<item>Airport</item>
+		<item>Bus Station</item>
+		<item>ATM</item>
+		<item>Bank</item>
+		<item>Movie Theater</item>
+	</string-array>
+	
+</resources>
